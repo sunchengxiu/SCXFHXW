@@ -1,0 +1,21 @@
+PODS:
+  - Pingpp (2.1.4):
+    - Pingpp/Alipay (= 2.1.4)
+    - Pingpp/Core (= 2.1.4)
+    - Pingpp/UnionPay (= 2.1.4)
+    - Pingpp/Wx (= 2.1.4)
+  - Pingpp/Alipay (2.1.4):
+    - Pingpp/Core
+  - Pingpp/Core (2.1.4)
+  - Pingpp/UnionPay (2.1.4):
+    - Pingpp/Core
+  - Pingpp/Wx (2.1.4):
+    - Pingpp/Core
+
+DEPENDENCIES:
+  - Pingpp (~> 2.1.4)
+
+SPEC CHECKSUMS:
+  Pingpp: 08415163eb1791bc07d7d939f1648d2e36a30eda
+
+COCOAPODS: 0.39.0
